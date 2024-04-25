@@ -1,5 +1,5 @@
 
-**#Split Federated Learning: A Granular Approach to Privacy-Preserving AI**
+**# Split Federated Learning: A Granular Approach to Privacy-Preserving AI**
 # Introduction
 Federated learning (FL) has become a game-changer in the world of machine learning, enabling us to train models on distributed data while keeping privacy a top priority. It tackles the issue of centralized training, where user data resides on a central server, raising privacy concerns. However, traditional FL assumes each device holds a complete data sample. This can be impractical for devices with limited storage or when dealing with highly sensitive data.
 # Enter Split Federated Learning (SFL): A Refined Approach
